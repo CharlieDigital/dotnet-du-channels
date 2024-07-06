@@ -1,5 +1,7 @@
 # Discriminated Unions and .NET Channels
 
+![](./dotnet-du-channels.png)
+
 ## Overview
 
 - .NET channels are an easy way to achieve high throughput, concurrent/parallel processing for information without the need to manage common challenges with thread synchronization
